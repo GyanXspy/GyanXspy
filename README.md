@@ -98,10 +98,10 @@ Circuit Breaker  •  Bulkhead  •  Event-Driven Architecture
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🤖 [AI-Powered Innovation & Recruitment Platform](https://github.com/GyanXspy) | Java · Spring Boot · Kafka · React · Docker | 9 microservices, 50+ JWT endpoints, 1,000+ concurrent evaluations, GPT + Gemini integrated |
-| 🍽️ [Restaurant Food Ordering System (SaaS)](https://github.com/GyanXspy) | Java 17 · Spring Boot · Kafka · MySQL · MongoDB | Saga orchestration, CQRS, 99.9% availability, 3× faster reads |
-| 🖐️ [Hand Gesture Screen Controller](https://github.com/GyanXspy) | Python · MediaPipe · OpenCV · PyAutoGUI | Real-time 30 FPS, sub-0.4s latency, 5 gesture mappings |
-| 📰 [Yahoo Finance News Scraper](https://github.com/GyanXspy) | Python · BeautifulSoup · Requests | Auto-polls every 60s, zero-duplicate NLP-ready datasets |
+| 🤖 [AI-Powered Innovation & Recruitment Platform](https://github.com/Satyabrata-123/CompanyProblem) | Java · Spring Boot · Kafka · React · Docker | 9 microservices, 50+ JWT endpoints, 1,000+ concurrent evaluations, GPT + Gemini integrated |
+| 🍽️ [Restaurant Food Ordering System (SaaS)](https://github.com/GyanXspy/Restaurant-SAAS) | Java 17 · Spring Boot · Kafka · MySQL · MongoDB | Saga orchestration, CQRS, 99.9% availability, 3× faster reads |
+| 🖐️ [Hand Gesture Screen Controller](https://github.com/GyanXspy/Hand-Gesture-Screen-Controller) | Python · MediaPipe · OpenCV · PyAutoGUI | Real-time 30 FPS, sub-0.4s latency, 5 gesture mappings |
+| 📰 [Yahoo Finance News Scraper](https://github.com/GyanXspy/Web-Scraper) | Python · BeautifulSoup · Requests | Auto-polls every 60s, zero-duplicate NLP-ready datasets |
 
 ---
 
