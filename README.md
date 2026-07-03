@@ -1,146 +1,166 @@
 <h1 align="center">Hi 👋, I'm Gyana Ranjan Patra</h1>
-<h3 align="center">Backend Engineer & Distributed Systems Enthusiast from 🇮🇳 India</h3>
+<h3 align="center">Backend Engineer • Distributed Systems • AI Applications • India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GyanXspy&label=Profile%20views&color=0e75b6&style=flat" alt="GyanXspy" />
   <a href="https://github.com/GyanXspy?tab=followers">
-    <img src="https://img.shields.io/github/followers/GyanXspy?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/GyanXspy?label=Followers&style=social" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-I'm a final-year **B.Tech CSE student** specializing in **Java backend engineering** and **distributed systems**. I design and deliver production-grade, event-driven microservices using **Spring Boot 3**, **Apache Kafka**, **Docker**, and **AWS** — including a Saga-orchestrated food ordering platform with CQRS, Resilience4j fault tolerance, and **99.9% availability**.
+I'm a **Backend Engineer** passionate about building scalable, distributed systems and AI-powered applications.
 
-- 🔭 Currently building **cloud-native microservices**, **AI-integrated platforms**, and **event-driven systems**
-- 🌱 Always learning about **distributed systems**, **platform engineering**, and **emerging backend patterns**
-- 👯 Looking to collaborate on **open-source backend/DevOps projects**
-- 💬 Ask me about **Java, Spring Boot, Apache Kafka, System Design, and AWS**
+My primary focus is designing production-ready backend architectures using **Java**, **Spring Boot**, **Apache Kafka**, and cloud-native technologies. I also build intelligent applications using **Python**, **LangChain**, and **Gemini AI**.
+
+- 🔭 Building scalable microservices and distributed systems
+- 🌱 Learning System Design, Platform Engineering & Cloud Architecture
+- 🤖 Developing AI-powered applications using LangChain and LLMs
+- 💬 Ask me about Java, Spring Boot, Kafka, REST APIs, Distributed Systems and AWS
 - 📫 Reach me at **gyanaranjanpatra780@gmail.com**
-- ⚡ Fun fact: I love turning complex system design problems into clean, scalable code
 
 ---
 
-### 🔗 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/gyanaranjanpatra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/gyanaranjanpatra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:gyanaranjanpatra780@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/GyanXspy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/GyanXspy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**Languages & Frameworks**
+### Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**Cloud & DevOps**
+### Backend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
-**Databases & Messaging**
+### Frontend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-**AI / LLM**
+### Cloud & DevOps
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### AI / LLM
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-### 🏗️ Architecture & Patterns I Work With
+# 🏗 Architecture & Concepts
 
+```text
+Microservices
+Distributed Systems
+Event-Driven Architecture
+CQRS
+Saga Pattern
+REST APIs
+Apache Kafka
+System Design
+Resilience Patterns
+Docker
+Cloud Deployment
 ```
-Microservices  •  CQRS  •  Event Sourcing  •  Saga Pattern
-Distributed Systems  •  Resilience4j  •  API Design  •  Caching
-Circuit Breaker  •  Bulkhead  •  Event-Driven Architecture
-```
 
 ---
 
-### 🚧 Featured Projects
+# 🚧 Featured Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🤖 [AI-Powered Innovation & Recruitment Platform](https://github.com/Satyabrata-123/CompanyProblem) | Java · Spring Boot · Kafka · React · Docker | 9 microservices, 50+ JWT endpoints, 1,000+ concurrent evaluations, GPT + Gemini integrated |
-| 🍽️ [Restaurant Food Ordering System (SaaS)](https://github.com/GyanXspy/Restaurant-SAAS) | Java 17 · Spring Boot · Kafka · MySQL · MongoDB | Saga orchestration, CQRS, 99.9% availability, 3× faster reads |
-| 🖐️ [Hand Gesture Screen Controller](https://github.com/GyanXspy/Hand-Gesture-Screen-Controller) | Python · MediaPipe · OpenCV · PyAutoGUI | Real-time 30 FPS, sub-0.4s latency, 5 gesture mappings |
-| 📰 [Yahoo Finance News Scraper](https://github.com/GyanXspy/Web-Scraper) | Python · BeautifulSoup · Requests | Auto-polls every 60s, zero-duplicate NLP-ready datasets |
+| Project | Tech Stack | Highlights |
+|----------|------------|------------|
+| 🤖 **Multi-Agent Financial Research Analyst** | Python, FastAPI, LangChain, Gemini, React | Multi-agent investment research platform that analyzes market data, SEC filings, and financial news to generate structured investment reports. |
+| 🚀 **AI-Powered Innovation & Recruitment Platform** | Spring Boot, Kafka, React, MySQL | Enterprise microservices platform with AI-powered idea evaluation, asynchronous Kafka messaging, and real-time gamification. |
+| 🍽 **Food Ordering & Delivery Platform** | Java, Spring Boot, Kafka, MongoDB, MySQL | Distributed food ordering system using Saga orchestration, event-driven communication, resilience patterns, and fault-tolerant services. |
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GyanXspy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanXspy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GyanXspy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanXspy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanXspy&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanXspy&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GyanXspy&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanXspy&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
+# 💡 Current Interests
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanXspy&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏅 Certifications & Achievements
-
-- ☁️ **AWS Cloud Practitioner** (2025) — EC2, ECS, Lambda, RDS, S3
-- 🏆 **Smart India Hackathon Participant** (2025) — National-level competitive team hackathon
+- Distributed Systems
+- Event-Driven Architecture
+- High Performance Backend Engineering
+- AI Agents
+- Platform Engineering
+- Cloud Native Applications
+- System Design
+- Open Source
 
 ---
 
 <p align="center">
-  <i>"Build systems that scale, write code that lasts."</i>
+<i>"Design scalable systems. Build reliable software. Keep learning."</i>
 </p>
