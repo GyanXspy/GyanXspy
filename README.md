@@ -10,21 +10,21 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Backend Engineer** passionate about building scalable, distributed systems and AI-powered applications.
 
 My primary focus is designing production-ready backend architectures using **Java**, **Spring Boot**, **Apache Kafka**, and cloud-native technologies. I also build intelligent applications using **Python**, **LangChain**, and **Gemini AI**.
 
-- 🔭 Building scalable microservices and distributed systems
-- 🌱 Learning System Design, Platform Engineering & Cloud Architecture
-- 🤖 Developing AI-powered applications using LangChain and LLMs
-- 💬 Ask me about Java, Spring Boot, Kafka, REST APIs, Distributed Systems and AWS
-- 📫 Reach me at **gyanaranjanpatra780@gmail.com**
+- Building scalable microservices and distributed systems
+- Learning System Design, Platform Engineering & Cloud Architecture
+- Developing AI-powered applications using LangChain and LLMs
+- Ask me about Java, Spring Boot, Kafka, REST APIs, Distributed Systems and AWS
+- Reach me at **gyanaranjanpatra780@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/gyanaranjanpatra">
@@ -42,7 +42,7 @@ My primary focus is designing production-ready backend architectures using **Jav
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Programming Languages
 
@@ -98,7 +98,7 @@ My primary focus is designing production-ready backend architectures using **Jav
 
 ---
 
-# 🏗 Architecture & Concepts
+# Architecture & Concepts
 
 ```text
 Microservices
@@ -116,17 +116,17 @@ Cloud Deployment
 
 ---
 
-# 🚧 Featured Projects
+# Featured Projects
 
 | Project | Tech Stack | Highlights |
 |----------|------------|------------|
-| 🤖 **Multi-Agent Financial Research Analyst** | Python, FastAPI, LangChain, Gemini, React | Multi-agent investment research platform that analyzes market data, SEC filings, and financial news to generate structured investment reports. |
-| 🚀 **AI-Powered Innovation & Recruitment Platform** | Spring Boot, Kafka, React, MySQL | Enterprise microservices platform with AI-powered idea evaluation, asynchronous Kafka messaging, and real-time gamification. |
-| 🍽 **Food Ordering & Delivery Platform** | Java, Spring Boot, Kafka, MongoDB, MySQL | Distributed food ordering system using Saga orchestration, event-driven communication, resilience patterns, and fault-tolerant services. |
+| **Multi-Agent Financial Research Analyst** | Python, FastAPI, LangChain, Gemini, React | Multi-agent investment research platform that analyzes market data, SEC filings, and financial news to generate structured investment reports. |
+| **AI-Powered Innovation & Recruitment Platform** | Spring Boot, Kafka, React, MySQL | Enterprise microservices platform with AI-powered idea evaluation, asynchronous Kafka messaging, and real-time gamification. |
+| **Food Ordering & Delivery Platform** | Java, Spring Boot, Kafka, MongoDB, MySQL | Distributed food ordering system using Saga orchestration, event-driven communication, resilience patterns, and fault-tolerant services. |
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=GyanXspy&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -140,7 +140,7 @@ Cloud Deployment
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanXspy&theme=tokyo-night&hide_border=true"/>
@@ -148,7 +148,7 @@ Cloud Deployment
 
 ---
 
-# 💡 Current Interests
+# Current Interests
 
 - Distributed Systems
 - Event-Driven Architecture
